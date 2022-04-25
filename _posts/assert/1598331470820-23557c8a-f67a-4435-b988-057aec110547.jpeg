@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>MissingArgument</Code>
+  <Message>Missing argument:resize</Message>
+  <RequestId>62655E9EBF9C6A30367DD0F2</RequestId>
+  <HostId>lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com</HostId>
+</Error>
