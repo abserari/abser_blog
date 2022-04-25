@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \# 前言
 我前不久体验了 \`Dapr\` 的单机使用，体验不错。不过\`Dapr\` 作为一个分布式应用的运行时，当然需要加入集群使用才能完全体验呀。我们使用 [GitHub 上的文档](https://github.com/dapr/samples/tree/master/2.hello-kubernetes) 部署。首先我们需要一个 \`Kubernetes\` 集群来做实验，选择 \`Rancher\` 由于我比较熟悉 Rancher ，同时 UI 操作才能让人感受到工具的便利嘛。之后会使用 \`Rancher\` 的 \`Helm\` 部署 \`Dapr\` 、\`Redis\` 图表，不过由于 UI 操作的便利，点一下就部署了。
 

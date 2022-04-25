@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \### 问题
 Temporal 在执行 workflow 的时候是藉由 worker 完成的实际执行，在 temporal server 端则是 virtual function 来代表的。 当我们的 worker crash 的时候，temporal 是否能够重新调度 workflow task 让 worker 继续 workflow 的运行（即跳过已经执行过的 activity）呢？
 

@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## Kubelet 启动流程
 kubernetes 版本：v1.23
 

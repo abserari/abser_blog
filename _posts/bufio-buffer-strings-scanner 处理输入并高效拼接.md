@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \- [关于使用 bufio.Scanner 读取数据](https://studygolang.com/articles/11905)
 \- [字符串拼接如何最快](https://gocn.vip/question/265)-gocn
 \- [字符串拼接详细比较-reddit](https://www.reddit.com/r/golang/comments/7j65d0/new\_in\_go\_110\_stringsbuilder\_efficiently\_build/)

@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## Preview
 前文提到了 Caddy 的启动流程 和 Run 函数，现在我们顺着启动流程的第一步，读取 Caddyfile 的 源码阅读开始。
 

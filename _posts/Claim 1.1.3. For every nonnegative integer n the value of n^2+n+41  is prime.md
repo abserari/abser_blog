@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## Question
 Claim 1.1.3. \_For every nonnegative integer \_n \_the value of ![](https://cdn.nlark.com/yuque/\_\_latex/383819858ada02de98f8de9faf90fa07.svg#card=math&code=n%5E2%2Bn%2B41&height=18&width=76)
 \_ \_is prime.\_

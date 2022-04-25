@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## Question
 \*\*Theorem 1.5.2.\*\* \_If ![](https://cdn.nlark.com/yuque/\_\_latex/4b43b0aee35624cd95b910189b3dc231.svg#card=math&code=r%0A&height=12&width=7)\_ \_is irrational, then \_![](https://cdn.nlark.com/yuque/\_\_latex/3277115ac9b91f17ccbc75de4e6c82f3.svg#card=math&code=%5Csqrt%20r&height=21&width=21) \_is also irrational.\_
 

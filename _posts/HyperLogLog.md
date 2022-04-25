@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## 基数计数基本概念
 
 \*\*基数计数(cardinality counting)\*\*通常用来统计一个集合中不重复的元素个数，例如统计某个网站的UV，或者用户搜索网站的关键词数量。数据分析、网络监控及数据库优化等领域都会涉及到基数计数的需求。 要实现基数计数，最简单的做法是记录集合中所有不重复的元素集合![](https://cdn.nlark.com/\_\_latex/b203891c74e924db0c6b5e07fe602d11.svg#align=left&card=math&code=S%E2%80%8B\_u%E2%80%8B&height=16&width=19)，当新来一个元素![](https://cdn.nlark.com/\_\_latex/1ba8aaab47179b3d3e24b0ccea9f4e30.svg#align=left&card=math&code=x\_i&height=12&width=13)，若![](https://cdn.nlark.com/\_\_latex/b203891c74e924db0c6b5e07fe602d11.svg#align=left&card=math&code=S%E2%80%8B\_u%E2%80%8B&height=16&width=19)中不包含元素![](https://cdn.nlark.com/\_\_latex/1ba8aaab47179b3d3e24b0ccea9f4e30.svg#align=left&card=math&code=x\_i&height=12&width=13)，则将![](https://cdn.nlark.com/\_\_latex/1ba8aaab47179b3d3e24b0ccea9f4e30.svg#align=left&card=math&code=x\_i&height=12&width=13)加入![](https://cdn.nlark.com/\_\_latex/b203891c74e924db0c6b5e07fe602d11.svg#align=left&card=math&code=S%E2%80%8B\_u%E2%80%8B&height=16&width=19)，否则不加入，计数值就是![](https://cdn.nlark.com/\_\_latex/b203891c74e924db0c6b5e07fe602d11.svg#align=left&card=math&code=S%E2%80%8B\_u%E2%80%8B&height=16&width=19)的元素数量。这种做法存在两个问题：

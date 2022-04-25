@@ -1,3 +1,12 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
+
+
 \## Overview
 \> 大家知道我最近写的有关语雀的不少, 今天介绍一个新功能. Codepen 结合 iframe 嵌入各种网页.
 \> 同时, ObserveableHQ 是一个 online 的 JS 笔记本, 也提供嵌入方式, 像大家的 BI 工具, 通常也会提供嵌入方式.

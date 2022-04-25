@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 [https://github.com/openfaas/workshop](https://github.com/openfaas/workshop)
 
 可以使用 [play-with docker](https://labs.play-with-docker.com/) 尝试

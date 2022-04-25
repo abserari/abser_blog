@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \### 微软的 Demo 地址
 [https://sanddance.js.org/app/](https://sanddance.js.org/app/)
 

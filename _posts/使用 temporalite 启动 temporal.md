@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## 介绍
 temporalite 是 temporal 的无依赖二进制分发版本，可以快速在单机启动 temporal，并通过 sqlite 把数据持久化到内存或者文件中。
 

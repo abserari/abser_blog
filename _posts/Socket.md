@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## Read
 \- [Kernel Korner - Why and How to Use Netlink Socket](https://www.linuxjournal.com/article/7356)
 \- [IP-XFRM-8](https://man7.org/linux/man-pages/man8/ip-xfrm.8.html)

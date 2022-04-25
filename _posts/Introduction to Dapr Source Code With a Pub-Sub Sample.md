@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## Overview
 ![](https://cdn.nlark.com/yuque/0/2020/svg/176280/1598163232910-e2fbc481-ba92-44be-8199-98e3d1cfd1e9.svg#align=left&display=inline&height=270&margin=%5Bobject%20Object%5D&originHeight=270&originWidth=367&size=0&status=done&style=none&width=367)
 

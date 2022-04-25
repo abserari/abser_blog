@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## Preview
 我们已经了解了 Caddy 的整个建立流程，这一次我们来了解关于 Caddy 服务的执行者， Instance 和 Server。
 

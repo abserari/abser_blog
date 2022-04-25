@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \### 前言
 本次系列会讲解 caddy 整个生命周期涉及到的源码。
 

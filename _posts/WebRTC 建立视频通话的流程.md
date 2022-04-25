@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \> webRTC 学习笔记：相关概念，和建立视频通话的流程。
 
 \#### Signal - Middle server

@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \# Actor Enhanced
 [actors](https://github.com/dapr/docs/blob/334ff4c626e9a1921dbf22260da3f11a9d44f007/concepts/actors/README.md): is an enhanced model when you need
 

@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 如何自己编写像 google doc 一样的文档, 阅读 [Google Writing Principle](https://developers.google.com/tech-writing/one/just-enough-grammar)
 
 \# 基础部分

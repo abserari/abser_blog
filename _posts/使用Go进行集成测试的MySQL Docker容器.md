@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 [原文链接](https://itnext.io/mysql-docker-container-for-integration-testing-using-go-f784b70a03b)                                                                                     作者：Mitesh
 
 [翻译整理](https://abser.top)                                                                                     翻译整理：Abser

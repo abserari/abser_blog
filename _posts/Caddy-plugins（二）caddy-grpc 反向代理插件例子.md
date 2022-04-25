@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 项目地址：[https://github.com/yhyddr/caddy-grpc](https://github.com/yhyddr/caddy-grpc)
 
 \-\-\-

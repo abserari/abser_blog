@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 CloudEvents is a specification for describing event data in common formats to provide interoperability across services, platforms and systems.
 
 CloudEvent 重点在于跨平台, 跨服务, 跨系统的一个跨字. 重在适应性, 通用性.

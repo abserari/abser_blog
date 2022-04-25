@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 [\*\*失效模式与影响分析\*\*](https://zh.wikipedia.org/wiki/%E5%A4%B1%E6%95%88%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%BD%B1%E5%93%8D%E5%88%86%E6%9E%90)（\*\*Failure mode and effects analysis\*\*，\*\*FMEA\*\*）
 
 FEMA 在文章上的应用是将一篇文章作为工程来对待。

@@ -1,3 +1,12 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
+
+
 \## 起源
 \- [Google 支持用 Rust 重写开源软件](https://www.google.com/search?biw=1602&bih=920&sxsrf=ALeKk01AR9bTqQtrufFyZKnRNG0tyTwsNQ%3A1614061137958&ei=UZ40YMb1OYn5tAbkg76gDA&q=google+rust+%E9%87%8D%E5%86%99+opensource&oq=google+rust+%E9%87%8D%E5%86%99+opensource&gs\_lcp=Cgdnd3Mtd2l6EANQ8G5Y8nVg-3poAnAAeACAAdQCiAHPEZIBAzMtN5gBAKABAaoBB2d3cy13aXrAAQE&sclient=gws-wiz&ved=0ahUKEwiG4pemrv\_uAhWJPM0KHeSBD8QQ4dUDCA0&uact=5)
 \- [官网原文](https://security.googleblog.com/2021/02/mitigating-memory-safety-issues-in-open.html)

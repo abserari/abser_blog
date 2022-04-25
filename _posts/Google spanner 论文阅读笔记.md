@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 ![image.png](assert/1553281434872-41006e3c-e591-4c92-a005-5bcfeaa8b64f.png)
 
 脑图详细

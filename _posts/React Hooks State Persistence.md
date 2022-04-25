@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \> 本文讲述如何分析设计 通过 React Hooks 进行 State 持久化管理
 
 \## 分析

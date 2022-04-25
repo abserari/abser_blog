@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## Refer
 [https://github.com/antfu/vitesse](https://github.com/antfu/vitesse)
 

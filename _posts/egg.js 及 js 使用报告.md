@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## Preview
 \> js 用于初期快速原型来检测 Demo 可行性非常好，本文用于总结 js 快速使用
 

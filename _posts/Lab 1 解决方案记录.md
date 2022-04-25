@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \### 简单总结
 [6.824 lab 1 MapReduce](https://pdos.csail.mit.edu/6.824/labs/lab-mr.html)
 

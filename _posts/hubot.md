@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## 安装
 注意 node 的版本不要太低，16.13.1 当前使用. 不想安装 npm 和 node 环境也可以通过 alias 和 docker exec 安装。
 :::warning

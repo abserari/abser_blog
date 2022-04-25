@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## Overview
 [https://dagger.io/](https://dagger.io/)： Dagger 是 Docker 创始人的 Devops 平台创业项目，A轮融资 2000w 美元。据说这一次会吸取 Docker 的教训，不要被迅速的成功蒙蔽了视野。
 

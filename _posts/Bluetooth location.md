@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## Application
 ![image.png](assert/1633601669097-9aaecb0a-0fb8-4929-a9cd-b3f47851eea7.png)
 

@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## PPT 大纲
 ![](https://cdn.nlark.com/yuque/0/2021/jpeg/176280/1639384901496-07ecacff-0f6c-4000-ab85-b4d78f5b96c7.jpeg)
 

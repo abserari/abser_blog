@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## Preface
 Caddy 是 Go 语言构建的轻量配置化服务器。[https://github.com/caddyserver/caddy](https://github.com/caddyserver/caddy)
 

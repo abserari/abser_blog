@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 最近看到 Kubernetes 的文章 ：[《微软开源微服务构建软件 Dapr》](https://www.kubernetes.org.cn/5954.html)
 
 微软开源的微服务套件？我一下子来了兴趣，作为一个开发人员，当然是先上手试试手感啦。我看文章中提到

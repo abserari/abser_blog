@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 1\. 打开 default 命名空间![image.png](assert/1569135277015-941d182e-f10e-4201-a3e8-dc1715ad1e18.png)
 
 1\. 打开 应用商店， 点击启动或者 launch

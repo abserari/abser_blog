@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## Learn
 This article will teach you more about the WOP(Well-Ordering Principle) and how to use it.
 

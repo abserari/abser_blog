@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 Now CLoudEvent coming v2.
 
 最大的变化是将 原先 client 下的 transport 层单独抽出作为 protocol 层.

@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \## Question
 \*\*Theorem 1.8.1\*\* ![](https://cdn.nlark.com/yuque/\_\_latex/e6f860efb95f26db5fd44c3e241c84c9.svg#card=math&code=%5Csqrt%202&height=21&width=22) is irrational.
 

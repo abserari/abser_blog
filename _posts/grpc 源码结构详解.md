@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \### DialOptions
 DialOptions 是最重要的一环，负责配置每一次 rpc 请求的时候的一应选择。
 

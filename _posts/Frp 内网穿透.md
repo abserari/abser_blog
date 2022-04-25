@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 [官方文档](https://github.com/fatedier/frp/blob/master/README\_zh.md)
 
 需要有公网服务器

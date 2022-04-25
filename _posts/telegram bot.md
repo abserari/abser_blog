@@ -1,3 +1,10 @@
+--- 
+layout: category-post
+title:  "Welcome to blog!"
+date:   2016-08-05 20:20:56 -0400
+categories: writing
+---
+
 \### 调出键盘和使用 /command 命令
 ![image.png](assert/1564210437309-ef79a1f6-9e85-4f1c-8df7-fd12411a2d5d.png)
 
